@@ -5,7 +5,7 @@ This assignment involved coding up A* and Probabilistic roadmap (PRM) motion pla
 
 ## Occupancy Grid
 
-<img src="https://github.com/marleyshan21/Astar_PRM_2d_occupancy_grid/blob/main/gridmaps/revo_lds_occupancy_grid.png"  alt="occupancy grid map">
+<img src="https://github.com/marleyshan21/Astar_PRM_2d_occupancy_grid/blob/main/gridmaps/revo_lds_occupancy_grid.png"  alt="occupancy grid map" width="640" height="480">
 
 ## A* Path Planning
 
