@@ -1,5 +1,5 @@
 # Details
-This assignment involved coding up A* and Probabilistic roadmap (PRM) motion planning algorithms for a 2D occupancy grid. The occupancy grid was generated from a 2D lidar scan. 
+This assignment involved coding up A* and Probabilistic roadmap (PRM) path planning algorithms for a 2D occupancy grid. The occupancy grid was generated from a 2D lidar scan. 
 
 [Question Paper](questions.pdf)
 
